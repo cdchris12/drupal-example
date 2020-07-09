@@ -2,7 +2,7 @@ version: '2.3'
 
 x-lagoon-project:
   # Lagoon project name (leave `&lagoon-project` when you edit this)
-  &lagoon-project chris-assessment
+  &lagoon-project cdchris12-test1
 
 x-volumes:
   &default-volumes
